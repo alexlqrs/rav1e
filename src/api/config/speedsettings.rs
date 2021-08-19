@@ -335,7 +335,7 @@ pub enum SceneDetectionSpeed {
   Fast,
   /// Scene detection using histogram comparison
   Medium,
-  /// Scene detection using histogram block-based comparison 
+  /// Scene detection using histogram block-based comparison
   Slow,
 }
 
